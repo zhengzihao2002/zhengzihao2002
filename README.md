@@ -11,13 +11,10 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Zihao Zheng | Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />]
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
 [Email]: https://alvinzheng2002@icloud.com
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+
 
 
 <!--
