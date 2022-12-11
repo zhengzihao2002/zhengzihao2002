@@ -6,7 +6,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-(under development)
+- <b>C</b>
+  - [Word Wrapper](https://github.com/zhengzihao2002)
 
 
 <h2> 🤳 Connect with me:</h2>
