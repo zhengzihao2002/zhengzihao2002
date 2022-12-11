@@ -11,7 +11,6 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-<div style="background-image: url(https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png); width:22px">
 <a href="mailto:alvinzheng2002@icloud.com">Email</a>
 
 
