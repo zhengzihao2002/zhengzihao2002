@@ -14,7 +14,7 @@
 [<img align="left" alt="Zihao Zheng | Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />][Email]
 
 
-[Email]: https://alvinzheng2002@icloud.com
+[Email]: <a href="mailto:alvinzheng2002@icloud.com">Email</a>
 
 
 
