@@ -11,7 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<img align="left" alt="Zihao Zheng | Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />
+<img style="pointer-events: none" align="left" alt="Zihao Zheng | Email" width="22px" src="https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-1024.png" />
 <a href="mailto:alvinzheng2002@icloud.com">Email</a>
 
 
