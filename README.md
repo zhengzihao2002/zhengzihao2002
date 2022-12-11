@@ -7,7 +7,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C</b>
-  - [Word Wrapper](https://github.com/zhengzihao2002)
+  - [Word Wrapper]([https://github.com/zhengzihao2002](https://github.com/zhengzihao2002/CS214/tree/main/CS214/Assignment2))
 
 
 <h2> 🤳 Connect with me:</h2>
