@@ -13,7 +13,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="mailto:alvinzheng2002@icloud.com">Email</a>
-
+Wechat : ZhengZiHao_2002
 
 
 
