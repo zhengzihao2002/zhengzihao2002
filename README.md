@@ -12,7 +12,7 @@
   - [To Do List](https://github.com/zhengzihao2002/ToDoList)
 
 <h2> 🤳 Connect with me:</h2>
-<a href="mailto:alvinzheng2002@icloud.com">Email</a><br>
+E-mail:<a href="mailto:alvinzheng2002@icloud.com">alvinzheng2002@icloud.com</a><br>
 Wechat : ZhengZiHao_2002
 
 
