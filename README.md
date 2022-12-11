@@ -8,7 +8,8 @@
 
 - <b>C</b>
   - [Word Wrapper](https://github.com/zhengzihao2002/CS214/tree/main/CS214/Assignment2)
-
+- <b>JavaScript</b>
+  - [To Do List](https://github.com/zhengzihao2002/CS214/tree/main/ToDoList)
 
 <h2> 🤳 Connect with me:</h2>
 <a href="mailto:alvinzheng2002@icloud.com">Email</a>
