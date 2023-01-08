@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<h1>Hi, I'm Zihao! Welcome to my portfolio!<br/>
+<h1>Hi, I'm Zihao! Welcome to my mini portfolio!<br/>
 <a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a></h1>
 
 <h2>👨‍💻 Software Development Projects: (under construction)</h2>
