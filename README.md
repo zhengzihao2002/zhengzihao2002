@@ -10,6 +10,7 @@
   - [Word Wrapper](https://github.com/zhengzihao2002/CS214/tree/main/CS214/Assignment2)
 - <b>C++</b>
   - [Simple Contact System](https://github.com/zhengzihao2002/Simple-Contact-System)
+  - [Employee Management System](https://github.com/zhengzihao2002/Employee-Management-System)
 - <b>JavaScript</b>
   - [To Do List](https://github.com/zhengzihao2002/ToDoList)
 
