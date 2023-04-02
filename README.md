@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1>Hi, I'm Zihao! Welcome to GitHub Page<br/>
 <a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a></h1>
