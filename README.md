@@ -1,6 +1,6 @@
 
 <h1>I'm Zihao! Welcome to GitHub Page<br/>
-<a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a>, <a href="https://zhengzihao2002.github.io">Portfolio</a></h1>
+ <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a>, <a href="https://zhengzihao2002.github.io">Portfolio</a></h1>
 
 <h2>Software Development Projects: (under construction)</h2>
 
