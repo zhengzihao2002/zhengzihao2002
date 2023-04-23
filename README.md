@@ -1,8 +1,8 @@
 
-<h1>Hi, I'm Zihao! Welcome to GitHub Page<br/>
+<h1>I'm Zihao! Welcome to GitHub Page<br/>
 <a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a></h1>
 
-<h2>👨‍💻 Software Development Projects: (under construction)</h2>
+<h2>Software Development Projects: (under construction)</h2>
 
 - <b>C</b>
   - [Word Wrapper](https://github.com/zhengzihao2002/CS214/tree/main/CS214/Assignment2)
