@@ -1,6 +1,6 @@
 
 <h1>I'm Zihao! Welcome to GitHub Page<br/>
-<a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a></h1>
+<a href="https://github.com/zhengzihao2002?tab=repositories">Github Page</a>, <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">Linkedin Profile</a>, <a href="https://zhengzihao2002.github.io">Portfolio</a></h1>
 
 <h2>Software Development Projects: (under construction)</h2>
 
@@ -11,6 +11,10 @@
   - [Employee Management System](https://github.com/zhengzihao2002/Employee-Management-System)
 - <b>JavaScript</b>
   - [To Do List](https://github.com/zhengzihao2002/ToDoList)
+- <b>Java</b>
+  - [Songlib](https://github.com/zhengzihao2002/Songlib)
+  - [Chess](https://github.com/zhengzihao2002/Chess)
+  - [Photos](https://github.com/zhengzihao2002/Photos)
 
 <h2> 🤳 Connect with me:</h2>
 E-mail:<a href="mailto:alvinzheng2002@icloud.com">alvinzheng2002@icloud.com</a><br>
