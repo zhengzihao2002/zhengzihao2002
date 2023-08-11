@@ -16,6 +16,8 @@
   - [Chess](https://github.com/zhengzihao2002/Chess)
   - [Photos](https://github.com/zhengzihao2002/Photos)
   - [Android](https://github.com/zhengzihao2002/Android_Photos)
+- <b>Python</b>
+  - [Card Management](https://github.com/zhengzihao2002/CardManagement)
 
 <h2> 🤳 Connect with me:</h2>
 Portfolio: <a href="https://zhengzihao2002.github.io">https://zhengzihao2002.github.io</a><br>
