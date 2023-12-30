@@ -17,6 +17,7 @@
   - [Photos](https://github.com/zhengzihao2002/Photos)
   - [Android](https://github.com/zhengzihao2002/Android_Photos)
 - <b>Python</b>
+  - [Spacecraft Leak Detection Simulation](https://github.com/zhengzihao2002/leak_detection)
   - [Card Management](https://github.com/zhengzihao2002/CardManagement)
 
 <h2> 🤳 Connect with me:</h2>
