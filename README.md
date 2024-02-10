@@ -2,7 +2,7 @@
 
  </h1>
 
-<h2>Navigator for Software Development Projects: (up until March 2023)</h2>
+<h2>Navigator for Software Development Projects</h2>
 
 - <b>C</b>
   - [Word Wrapper](https://github.com/zhengzihao2002/CS214/tree/main/CS214/Assignment2)
