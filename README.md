@@ -25,7 +25,7 @@
 Portfolio: <a href="https://zhengzihao2002.github.io">https://zhengzihao2002.github.io</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">https://www.linkedin.com/in/zhengzihao2002</a><br>
 E-mail:<a href="mailto:alvinzheng2002@icloud.com">alvinzheng2002@icloud.com</a><br>
-Wechat : ZhengZiHao_2002
+Wechat : zhengzh0704
 
 
 
