@@ -11,6 +11,7 @@
   - [Employee Management System](https://github.com/zhengzihao2002/Employee-Management-System)
 - <b>JavaScript</b>
   - [To Do List](https://github.com/zhengzihao2002/ToDoList)
+  - [Vocab Memorization](https://github.com/zhengzihao2002/quizlet)
 - <b>Java</b>
   - [Songlib](https://github.com/zhengzihao2002/Songlib)
   - [Chess](https://github.com/zhengzihao2002/Chess)
