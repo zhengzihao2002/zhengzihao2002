@@ -21,7 +21,7 @@
   - [Spacecraft Leak Detection Simulation](https://github.com/zhengzihao2002/leak_detection)
   - [Card Management](https://github.com/zhengzihao2002/CardManagement)
 - <b>Full Stack</b>
-  - [ExpenseTracker]([https://github.com/zhengzihao2002/my-expense-tracker](https://github.com/zhengzihao2002/ExpenseTracker))
+  - [ExpenseTracker](https://github.com/zhengzihao2002/ExpenseTracker)
 <h2> 🤳 Connect with me:</h2>
 Portfolio: <a href="https://zhengzihao2002.github.io">https://zhengzihao2002.github.io</a><br>
 LinkedIn : <a href="https://www.linkedin.com/in/zihao-zheng-4a07b519b/">https://www.linkedin.com/in/zhengzihao2002</a><br>
